@@ -1,1 +1,0 @@
-![testimonial](./testimonial.png)
